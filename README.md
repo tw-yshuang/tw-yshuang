@@ -4,7 +4,7 @@ Every Choice🕹 will generate another Option🔠, so keep Fighting🦾 & Enjoy�
 
 - 🔭 I’m currently working on [Video-synopsis](https://github.com/tw-yshuang/NTUST_HandOver-Codebook)
 
-- 🌱 I’m currently learning **deep-learning, machine-vision**
+- 🌱 I’m currently learning **Deep-Learning, Machine-Vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
