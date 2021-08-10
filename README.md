@@ -10,7 +10,7 @@ Every Choice🕹 will generate another Option🔠, so keep Fighting🦾 & Enjoy�
 <p align="left">
 <a href="https://linkedin.com/in/yu-shun-huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-shun-huang" height="30" width="40" /></a>
 <a href="https://kaggle.com/twyshuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="twyshuang" height="30" width="40" /></a>
-<a href="https://medium.com/@tw.yshuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tw.yshuang" height="30" width="40" /></a>
+<a href="https://tw-yshuang.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tw.yshuang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
