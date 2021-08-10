@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on [Video-synopsis](https://github.com/tw-yshuang/NTUST_HandOver-Codebook)
 
-- 🌱 I’m currently learning **deep-learning, machine-vision**
+- 🌱 I’m currently learning **deep-learning, machine-vsison**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yu-shun-huang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yu-shun-huang/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/twyshuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/twyshuang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yu-shun-huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-shun-huang" height="30" width="40" /></a>
+<a href="https://kaggle.com/twyshuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="twyshuang" height="30" width="40" /></a>
 <a href="https://medium.com/@tw.yshuang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tw.yshuang" height="30" width="40" /></a>
 </p>
 
