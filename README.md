@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Y. S. Huang</h1>
 <h3 align="center">A passionate machine vision developer from Taiwan</h3>
-Every Choice💠 will generate another Option🔠, so keep Fight🦾 & Enjoy😎.
+Every Choice💠 will generate another Option🔠, so keep Fighting🦾 & Enjoy😎.
 
 - 🔭 I’m currently working on [Video-synopsis](https://github.com/tw-yshuang/NTUST_HandOver-Codebook)
 
