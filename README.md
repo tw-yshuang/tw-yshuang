@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Video-synopsis](https://github.com/tw-yshuang/NTUST_HandOver-Codebook)
 
-- 🌱 I’m currently learning **deep-learning, machine-vsison**
+- 🌱 I’m currently learning **deep-learning, machine-vision**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
