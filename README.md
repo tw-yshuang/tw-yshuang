@@ -9,7 +9,7 @@ Every Choice🕹 will generate another Option🔠, so keep Fighting🦾 & Enjoy�
 <p align="left">
 <a href="https://linkedin.com/in/yu-shun-huang" target="blank"><img align="center" src="./icons/linkedin.svg" alt="yu-shun-huang" height="40" width="40" /></a>
 <a href="https://tw-yshuang.notion.site/tw-yshuang/Y-S-Huang-s-Notion-eb29efd03f55498b93a081f162da452d" target="blank"><img align="center" src="./icons/notion.png" alt="@tw.yshuang" height="40" width="40" /></a>
-<a href="https://tw-yshuang.medium.com/" target="blank"><img align="center" src="./icons/medium_1.svg" alt="@tw.yshuang" height="40" width="40" /></a>
+<a href="https://medium.com/ntust-aicv" target="blank"><img align="center" src="./icons/medium_1.svg" alt="@tw.yshuang" height="40" width="40" /></a>
 <a href="https://kaggle.com/twyshuang" target="blank"><img align="center" src="./icons/kaggle.svg" alt="twyshuang" height="40" width="40" /></a>
 </p>
 
