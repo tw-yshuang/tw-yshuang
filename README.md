@@ -18,6 +18,6 @@ Every Choice🕹 will generate another Option🔠, so keep Fighting🦾 & Enjoy�
 
 
 <a href="https://github.com/tw-yshuang">
-    <img src="https://github-stats-alpha.vercel.app/api?username=tw-yshuang&cc=1a1b27&tc=36B5A6&ic=fff&bc=1a1b27">
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=tw-yshuang&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&border_color=1a1b27">
+    <img height="165" src="https://github-stats-alpha.vercel.app/api?username=tw-yshuang&cc=1a1b27&tc=36B5A6&ic=fff&bc=1a1b27">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=tw-yshuang&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&border_color=1a1b27">
 </a>
